@@ -26,6 +26,10 @@ the title "ScriBBler" & the sub-heading below "ScriBBLer" */
   width: 130px;
   height: 50px;
   color: white;
+  border-top: #dad5be solid 4px;
+  border-left: #dad5be solid 4px;
+  border-bottom: solid 4px #898989;
+  border-right: solid 4px #898989;
 }
 .button1 {
   margin-right: 140px;
@@ -40,17 +44,22 @@ the title "ScriBBler" & the sub-heading below "ScriBBLer" */
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  margin-top: 15%;
   height: 100%;
 }
 
 .postButs {
-  background-color: #fdcf00;
+  background-color: #d4bb47;
   color: black;
   height: 50px;
   width: 130px;
   font-size: 15px;
   font-weight: bold;
+  margin-right: 10px;
+  border-top: #dad5be solid 3px;
+  border-left: #dad5be solid 3px;
+  border-bottom: solid 3px #898989;
+  border-right: solid 3px #898989;
 }
 
 a {
